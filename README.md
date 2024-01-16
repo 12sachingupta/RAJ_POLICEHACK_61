@@ -1,6 +1,4 @@
-Creating a dynamic README file involves incorporating dynamic badges, links, and content that automatically updates based on the current state of the project. While GitHub README files don't support dynamic content directly, you can use external services to generate dynamic elements. Below is a template that includes some dynamic elements using shields.io for badges and GitHub Actions for dynamic content.
 
-```markdown
 # Deep Fake Detection Framework
 
 [![Build Status](https://img.shields.io/github/workflow/status/your-username/deep-fake-detection/CI?style=flat-square)](https://github.com/your-username/deep-fake-detection/actions)
@@ -63,4 +61,3 @@ This project is licensed under the [MIT License](link-to-license) - see the [LIC
 We appreciate the contributions of the open-source community and the support from organizations dedicated to combating misinformation through technology.
 ```
 
-Remember to replace placeholders such as `your-username`, `link-to-docs`, `link-to-contributing`, `link-to-license`, and others with your actual information and links.
